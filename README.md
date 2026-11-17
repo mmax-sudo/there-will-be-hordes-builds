@@ -2,7 +2,7 @@
 
 Thanks for testing **There Will Be Hordes**: a first-person sword and tower-defence game where you defend your kingdom's last resting place from goblins and orcs for five days and nights. It's an early prototype made of plain blocks, so it's meant to look rough. I want to know whether it's fun.
 
-**Mac only** (Apple chip or Intel).
+**Mac** (Apple chip or Intel) and **Windows PC** (64-bit). The Windows version is new (build 11): if you play on a PC, please tell me how smoothly it runs (press F3 in a fight to see the frame rate).
 
 ## Install
 
@@ -25,6 +25,15 @@ That's it. From now on, open **There Will Be Hordes** from your Applications fol
 2. Double-click **There Will Be Hordes**. Your Mac says it "could not verify" the game. That's expected: the game isn't from the App Store. Click **Done**.
 3. Open **System Settings → Privacy & Security**, scroll to the bottom and click **Open Anyway** next to "There Will Be Hordes". Enter your Mac password if asked. Do this soon after step 2; the button doesn't stay for long.
 4. Double-click the game again and click **Open**.
+
+## Install on a Windows PC
+
+1. Download **[There-Will-Be-Hordes-Windows.zip](https://github.com/mmax-sudo/there-will-be-hordes-builds/releases/latest/download/There-Will-Be-Hordes-Windows.zip)** (about 50 MB).
+2. Right-click it, choose **Extract All…**, and extract it somewhere easy to find (for example Documents).
+3. Open the **There Will Be Hordes** folder and double-click **There Will Be Hordes.exe**.
+4. The first time, Windows shows **"Windows protected your PC"**. That's expected: the game isn't signed. Click **More info**, then **Run anyway**. You only do this once.
+
+Keep the files in that folder together. The game updates itself like the Mac version.
 
 ## Updates
 
